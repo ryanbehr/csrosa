@@ -33,7 +33,7 @@ namespace org.javarosa.form.api
      * This class gives you all the information you need to display a question when
      * your current FormIndex references a QuestionEvent.
      * 
-     * @author Yaw Anokwa
+     * @author Acellam Guy ,  Yaw Anokwa
      */
     public class FormEntryPrompt : FormEntryCaption
     {

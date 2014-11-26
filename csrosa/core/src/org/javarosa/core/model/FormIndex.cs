@@ -35,7 +35,7 @@ namespace org.javarosa.core.model
      * FormIndex = BOF | EOF | CompoundIndex(nextIndex:FormIndex,Location)
      * Location = Empty | Simple(localLevel:int) | WithMult(localLevel:int, multiplicity:int)
      *   
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class FormIndex

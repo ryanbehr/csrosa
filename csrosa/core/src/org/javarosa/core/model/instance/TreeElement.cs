@@ -35,7 +35,7 @@ namespace org.javarosa.core.model.instance
      * TreeElements can also represent attributes. Attributes are unique from normal elements in that they are
      * not "children" of their parent, and are always leaf nodes: IE cannot have children.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * 
      */
 

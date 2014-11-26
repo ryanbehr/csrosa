@@ -35,7 +35,7 @@ namespace org.javarosa.core.util
      * the stream is ready, it should be prepare()d before
      * the first read.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Dec 18, 2008 
      *
      */

@@ -21,7 +21,7 @@ namespace org.javarosa.core.log
 {
 
     /**
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Apr 10, 2009 
      *
      */

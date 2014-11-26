@@ -36,7 +36,7 @@ namespace org.javarosa.model.xform{
 	 * The XML node elements are constructed in a depth-first manner, consistent with
 	 * standard XML document parsing.
 	 *
-	 * @author Clayton Sims
+	 * @author Acellam Guy ,  Clayton Sims
 	 *
 	 */
 	public class XFormSerializingVisitor : IInstanceSerializingVisitor {

@@ -7,7 +7,7 @@ namespace org.javarosa.core.model.condition.pivot
 {
 
     /**
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public abstract class RangeHint<T, IAD> : ConstraintHint where IAD : IAnswerData

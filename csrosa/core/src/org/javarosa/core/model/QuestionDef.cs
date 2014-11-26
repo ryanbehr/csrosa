@@ -33,7 +33,7 @@ namespace org.javarosa.core.model
      * to be properly deserialized. If they aren't, an exception
      * will be thrown at the time of deserialization. 
      * 
-     * @author Daniel Kayiwa/Drew Roos
+     * @author Acellam Guy ,  Daniel Kayiwa/Drew Roos
      *
      */
     public class QuestionDef : IFormElement, Localizable

@@ -20,7 +20,7 @@ namespace org.javarosa.core.util
 
     /**
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class ArrayUtilities

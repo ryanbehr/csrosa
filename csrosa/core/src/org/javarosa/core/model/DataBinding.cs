@@ -17,7 +17,7 @@ namespace org.javarosa.core.model
      * in a form to be registered with the FormDefRMSUtility's
      * prototype factory in order to properly deserialize.
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public class DataBinding : Externalizable

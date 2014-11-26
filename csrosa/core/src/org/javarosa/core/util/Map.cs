@@ -28,7 +28,7 @@ namespace org.javarosa.core.util
      * 
      * Lookups in a map are accomplished in O(n) time.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class Map

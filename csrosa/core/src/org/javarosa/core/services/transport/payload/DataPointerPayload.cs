@@ -26,7 +26,7 @@ namespace org.javarosa.core.services.transport.payload
     /**
      * A payload for a Pointer to some data.
      *  
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Dec 29, 2008 
      *
      */

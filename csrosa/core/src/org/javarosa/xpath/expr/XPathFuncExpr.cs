@@ -37,7 +37,7 @@ namespace org.javarosa.xpath.expr
      * Evaluation of functions can delegate out to custom function handlers that must be registered at
      * runtime.
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public class XPathFuncExpr : XPathExpression

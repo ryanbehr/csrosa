@@ -23,7 +23,7 @@ namespace org.javarosa.core.model.data
 
     /**
      * A response to a question requesting an Integer Value
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class IntegerData : IAnswerData, System.ICloneable

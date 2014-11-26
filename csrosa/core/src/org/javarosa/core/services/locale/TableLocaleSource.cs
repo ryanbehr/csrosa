@@ -25,7 +25,7 @@ namespace org.javarosa.core.services.locale
 {
 
     /**
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date May 26, 2009 
      *
      */

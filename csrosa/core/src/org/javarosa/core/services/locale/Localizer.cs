@@ -11,7 +11,7 @@ namespace org.javarosa.core.services.locale
      * ID's to the String values associated with them in different 
      * locales.
      * 
-     * @author Drew Roos/Clayton Sims
+     * @author Acellam Guy ,  Drew Roos/Clayton Sims
      *
      */
     public class Localizer : Externalizable

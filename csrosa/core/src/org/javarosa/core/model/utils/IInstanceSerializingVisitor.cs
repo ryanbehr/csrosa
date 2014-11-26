@@ -22,7 +22,7 @@ namespace org.javarosa.core.model.utils
     /**
      * An IInstanceSerializingVisitor serializes a DataModel
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public interface IInstanceSerializingVisitor : IInstanceVisitor

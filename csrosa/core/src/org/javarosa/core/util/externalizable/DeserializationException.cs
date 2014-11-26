@@ -22,7 +22,7 @@ namespace org.javarosa.core.util.externalizable
      * 
      * 1) We don't know what object to create
      *  
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class DeserializationException : Exception

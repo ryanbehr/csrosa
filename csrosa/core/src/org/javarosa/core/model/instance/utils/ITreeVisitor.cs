@@ -25,7 +25,7 @@ namespace org.javarosa.core.model.instance.utils
      * method dispatch for composite members occurs following dispatch
      * for the composing member.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public interface ITreeVisitor : IInstanceVisitor

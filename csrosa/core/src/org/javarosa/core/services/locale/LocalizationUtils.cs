@@ -5,7 +5,7 @@ namespace org.javarosa.core.services.locale
 {
 
 /**
- * @author ctsims
+ * @author Acellam Guy ,  ctsims
  *
  */
 public class LocalizationUtils {

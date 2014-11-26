@@ -26,7 +26,7 @@ namespace org.javarosa.core.model.data
      * Answer data representing a pointer object.  The pointer is a reference to some 
      * other object that it knows how to get out of memory.
      * 
-     * @author Cory Zue
+     * @author Acellam Guy ,  Cory Zue
      *
      */
     public class PointerAnswerData : IAnswerData,System.ICloneable

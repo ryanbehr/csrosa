@@ -23,7 +23,7 @@ namespace org.javarosa.core.api{
  * classes, including Module and Shell return codes, and indexes for the core
  * context.
  * 
- * @author Clayton Sims
+ * @author Acellam Guy ,  Clayton Sims
  * 
  */
 public class Constants {

@@ -26,7 +26,7 @@ namespace org.javarosa.core.model
 
     /** The definition of a group in a form or questionaire. 
      * 
-     * @author Daniel Kayiwa
+     * @author Acellam Guy ,  Daniel Kayiwa
      *
      */
     public class GroupDef : IFormElement, Localizable

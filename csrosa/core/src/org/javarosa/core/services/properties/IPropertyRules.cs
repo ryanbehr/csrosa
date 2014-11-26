@@ -27,7 +27,7 @@ namespace org.javarosa.core.services.properties
      * for a device's specific configuration, and a set of property rules should be considered
      * to be the non-persistent meta-data surrounding what those configurations mean.
      *  
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public interface IPropertyRules

@@ -8,7 +8,7 @@ namespace org.javarosa.core.util
     /**
      * Thrown when an index used contains an invalid value
      * 
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class InvalidIndexException : SystemException

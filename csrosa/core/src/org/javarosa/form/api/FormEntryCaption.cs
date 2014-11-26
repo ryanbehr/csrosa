@@ -29,7 +29,7 @@ namespace org.javarosa.form.api
      * your current FormIndex references a GroupEvent, RepeatPromptEvent, or
      * RepeatEvent.
      * 
-     * @author Simon Kelly
+     * @author Acellam Guy ,  Simon Kelly
      */
     public class FormEntryCaption : FormElementStateListener
     {

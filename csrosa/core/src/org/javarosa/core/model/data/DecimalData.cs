@@ -23,7 +23,7 @@ namespace org.javarosa.core.model.data
 
     /**
      * A response to a question requesting an Decimal Value.  Adapted from IntegerData
-     * @author Brian DeRenzi
+     * @author Acellam Guy ,  Brian DeRenzi
      *
      */
     public class DecimalData : IAnswerData, System.ICloneable

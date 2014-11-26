@@ -10,7 +10,7 @@ namespace org.javarosa.core.model.condition.pivot
 
 
     /**
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class DateRangeHint : RangeHint<DateData,IAnswerData>

@@ -29,7 +29,7 @@ namespace org.javarosa.core.reference
      * The ReferenceDataSource is a source of locale data which
      * is located at a location which is defined by a ReferenceURI.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Jun 1, 2009 
      *
      */

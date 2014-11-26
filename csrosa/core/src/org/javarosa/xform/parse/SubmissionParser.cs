@@ -11,7 +11,7 @@ namespace org.javarosa.xform.parse
     /**
      * A Submission Profile 
      * 
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class SubmissionParser

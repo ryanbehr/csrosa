@@ -25,7 +25,7 @@ namespace org.javarosa.xform.parse
      * An IElementHandler is responsible for handling the parsing of a particular
      * XForms node.
      *  
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public interface IElementHandler

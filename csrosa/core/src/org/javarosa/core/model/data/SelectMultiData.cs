@@ -29,7 +29,7 @@ namespace org.javarosa.core.model.data
      * A response to a question requesting a selection of
      * any number of items from a list.
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public class SelectMultiData : IAnswerData

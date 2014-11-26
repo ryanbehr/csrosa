@@ -16,7 +16,7 @@ namespace org.javarosa.core.model.instance.utils
      * set the allowed form types, such that any attempt to deserialize a form of a different type will throw
      * an error, instead of caching the new instance template.
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public class CachingInstanceTemplateManager : InstanceTemplateManager

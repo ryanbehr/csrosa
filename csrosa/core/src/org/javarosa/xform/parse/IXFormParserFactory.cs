@@ -6,7 +6,7 @@ namespace org.javarosa.xform.parse
      * Interface for class factory for creating an XFormParser.
      * Supports experimental extensions of XFormParser.
      * 
-     * @author mitchellsundt@gmail.com
+     * @author Acellam Guy ,  mitchellsundt@gmail.com
      *
      */
     public interface IXFormParserFactory

@@ -40,7 +40,7 @@ namespace org.javarosa.core.model.instance.utils{
  * 4a) in certain situations where the data differs from its prescribed data type (can happen as the result of 'calculate'
  *    expressions), flag the actual data type by hijacking the 'empty' flag above
  * 
- * @author Drew Roos
+ * @author Acellam Guy ,  Drew Roos
  *
  */
     public class CompactInstanceWrapper : WrappingStorageUtility.SerializationWrapper
@@ -296,7 +296,7 @@ namespace org.javarosa.core.model.instance.utils{
          *   * ultra-compact serialization of multiple-choice answers
          *   * tagging with extra type information when the template alone will not contain sufficient information
          * 
-         * @author Drew Roos
+         * @author Acellam Guy ,  Drew Roos
          *
          */
         private class ExtWrapAnswerData : ExternalizableWrapper

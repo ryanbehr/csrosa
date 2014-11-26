@@ -8,7 +8,7 @@ namespace org.javarosa.core.util
     /**
      * Static utility functions for mathematical operations
      * 
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class MathUtils

@@ -7,7 +7,7 @@ namespace org.javarosa.core.model.condition.pivot
 {
 
     /**
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class DecimalRangeHint : RangeHint<DecimalData,IAnswerData>

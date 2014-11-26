@@ -24,7 +24,7 @@ namespace org.javarosa.core.services.storage
      * 
      * All methods pass through to an underlying StorageUtility; you may get warnings about type mismatches
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public class WrappingStorageUtility : IStorageUtilityIndexed

@@ -37,7 +37,7 @@ namespace org.javarosa.core.model
      * Definition of a form. This has some meta data about the form definition and a
      * collection of groups together with question branching or skipping rules.
      * 
-     * @author Daniel Kayiwa, Drew Roos
+     * @author Acellam Guy ,  Daniel Kayiwa, Drew Roos
      * 
      */
     public class FormDef : IFormElement, Localizable, Persistable, IMetaData

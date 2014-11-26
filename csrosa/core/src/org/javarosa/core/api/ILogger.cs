@@ -28,7 +28,7 @@ namespace org.javarosa.core.api{
  * IIncidentLogger's are used for instrumenting applications to identify usage
  * patterns, usability errors, and general trajectories through applications.
  * 
- * @author Clayton Sims
+ * @author Acellam Guy ,  Clayton Sims
  * @date Apr 10, 2009 
  *
  */

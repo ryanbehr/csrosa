@@ -24,7 +24,7 @@ namespace org.javarosa.core.model.data
 
     /**
      * An answer data storing multiple pointers
-     * @author Cory Zue
+     * @author Acellam Guy ,  Cory Zue
      *
      */
     public class MultiPointerAnswerData : IAnswerData,System.ICloneable

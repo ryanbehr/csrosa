@@ -12,7 +12,7 @@ namespace org.javarosa.core.services.storage
      * 
      * Largely derived from Cell Life's RMSManager
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class StorageManager

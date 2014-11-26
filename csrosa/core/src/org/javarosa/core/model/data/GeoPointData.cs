@@ -27,7 +27,7 @@ namespace org.javarosa.core.model.data
     /**
      * A response to a question requesting an GeoPoint Value.
      * 
-     * @author Yaw Anokwa
+     * @author Acellam Guy ,  Yaw Anokwa
      * 
      */
     public class GeoPointData : IAnswerData, System.ICloneable

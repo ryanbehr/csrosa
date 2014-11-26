@@ -23,7 +23,7 @@ namespace org.javarosa.core.model.data
 
     /**
      * A response to a question requesting an Long Numeric Value
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class LongData : IAnswerData, System.ICloneable

@@ -5,7 +5,7 @@ using org.javarosa.core.util;
 namespace org.javarosa.core.log
 {
     /**
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public abstract class StreamLogSerializer

@@ -6,7 +6,7 @@ namespace org.javarosa.core.model.instance.utils
      * Used by CompactInstanceWrapper to retrieve the template FormInstances (from the original FormDef)
      * necessary to unambiguously deserialize the compact models
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public interface InstanceTemplateManager

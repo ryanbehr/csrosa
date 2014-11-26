@@ -8,7 +8,7 @@
  * associated view and controller and a set of transitions to new states.
  * 
  * @see TrivialTransitions
- * @author ctsims
+ * @author Acellam Guy ,  ctsims
  * 
  */
 namespace org.javarosa.core.api

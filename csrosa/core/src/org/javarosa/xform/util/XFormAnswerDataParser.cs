@@ -29,7 +29,7 @@ namespace org.javarosa.xform.util
      * The XFormAnswerDataParser is responsible for taking XForms elements and
      * parsing them into a specific type of IAnswerData.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * 
      */
 

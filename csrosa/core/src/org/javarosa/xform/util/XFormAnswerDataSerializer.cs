@@ -36,7 +36,7 @@ namespace org.javarosa.xform.util
      * extended by registering appropriate XForm serializing AnswerDataSerializers
      * with this class.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public class XFormAnswerDataSerializer : IAnswerDataSerializer

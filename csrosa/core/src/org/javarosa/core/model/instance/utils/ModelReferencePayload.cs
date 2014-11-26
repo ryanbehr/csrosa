@@ -37,7 +37,7 @@ namespace org.javarosa.core.model.instance.utils
      * actually perform the various computationally expensive functions
      * of serialization when required.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Apr 27, 2009 
      *
      */

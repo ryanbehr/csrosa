@@ -26,7 +26,7 @@ namespace org.javarosa.core.model
      * a form, an example of an implementing element would be the definition
      * of a Question. 
      * 
-     * @author Drew Roos
+     * @author Acellam Guy ,  Drew Roos
      *
      */
     public interface IFormElement : Localizable, Externalizable

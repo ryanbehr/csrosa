@@ -13,7 +13,7 @@ namespace org.javarosa.core.model
      * holding and processing the details of how a submission
      * should be handled. 
      * 
-     * @author ctsims
+     * @author Acellam Guy ,  ctsims
      *
      */
     public class SubmissionProfile : Externalizable

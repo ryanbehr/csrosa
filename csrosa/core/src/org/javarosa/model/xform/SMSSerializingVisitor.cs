@@ -32,7 +32,7 @@ namespace org.javarosa.model.xform
      * A modified version of Clayton's XFormSerializingVisitor that constructs
      * SMS's.
      * 
-     * @author Munaf Sheikh, Cell-Life
+     * @author Acellam Guy ,  Munaf Sheikh, Cell-Life
      * 
      */
     public class SMSSerializingVisitor : IInstanceSerializingVisitor

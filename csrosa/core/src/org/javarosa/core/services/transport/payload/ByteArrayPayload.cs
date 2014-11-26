@@ -27,7 +27,7 @@ namespace org.javarosa.core.services.transport.payload
      * A ByteArrayPayload is a simple payload consisting of a
      * byte array.
      * 
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      * @date Dec 18, 2008 
      *
      */

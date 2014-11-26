@@ -21,7 +21,7 @@ namespace org.javarosa.core.api
      * used to configure a set of components with any application
      * which might use them.
      *  
-     * @author Clayton Sims
+     * @author Acellam Guy ,  Clayton Sims
      *
      */
     public interface IModule
