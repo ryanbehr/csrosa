@@ -1,4 +1,4 @@
 csrosa
 ======
 
- This is an javarosa .net library for windows PCs
+ This is a javarosa .net library for windows PCs
