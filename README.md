@@ -1,4 +1,4 @@
 csrosa
 ======
 
- An Open-source platform for data collection on windows phone
+ This is a javarosa C# library for windows PCs and not windows phones or windows runtime
